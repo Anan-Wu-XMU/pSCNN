@@ -14,7 +14,7 @@ Python 3.10 and related packages, RDKit(2023.09.1), Mordred descriptor, and Tens
 Data availability
 ===
 
-  The dataset are stored in Ils_all_data.pkl, which consist of melting points, smiles and RDKit mol objects of all 3098 ionic liquids. 
+  The dataset is stored in Ils_all_data.pkl, which consist of melting points, smiles and RDKit mol objects of all 3098 ionic liquids. 
 
 Download the models and run directly
 ===
