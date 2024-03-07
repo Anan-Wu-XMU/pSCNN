@@ -5,7 +5,7 @@ The pSCNN repository includes all materials for the prediction of the normal mel
 
 In the excel file, two columns are required, one for SMILES and one for NAME, where SMILES is listed as smiles of ionic liquids, with the smiles of cations in the front. The melting points of ionic liquids ('TM') is optinal. 
 
-  ![TOC](https://github.com/Anan-Wu-XMU/pSCNN/assets/89952471/6b93a612-fcc6-4911-85db-62822834e2a3)
+  ![image](TOC.png)
 
       
 Requirment 
