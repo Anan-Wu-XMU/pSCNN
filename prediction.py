@@ -25,7 +25,6 @@ if __name__ == '__main__':
 
 # Input of ILs to be predicted
   narg = len(sys.argv)
-  print(narg)
   if narg < 2:
     print("Usage: prediction.py excelfile ")
     print("       excelfile: excel containing smiles and names of ionic liquids in column-wise")
